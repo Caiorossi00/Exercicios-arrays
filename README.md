@@ -17,3 +17,9 @@
 <li>Manipulação de dados em arrays, incluindo filtragem, transformação, ordenação e agregação.</li>
 <li>Uso de arrow functions para escrever código mais conciso.</li>
 <li>Aplicação de lógica de programação para resolver problemas específicos com arrays.</li>
+
+<br/>
+
+Datas Importantes:
+<li>Início: 04/03/2024</li>
+<li>Final: 04/03/2024</li>
